@@ -28,33 +28,27 @@ Facebook and TikTok have the highest conversions.
 Since both channels show high conversion rates alongside high traffic volume, there is a clear case for prioritizing budget allocation here to maximize the return on investment. 
 
 ### 4. Total Sum of Spend 
-Which platfrom receives the most budget 
-Facebook and TikTok recieve the most marketing budget. 
+It find which platfrom receives the most budget : Facebook and TikTok recieve the most marketing budget. 
 
 ### 5. Sum of Click Through Rate (CTR) 
-The rate of clicks per impersssions. 
-Unkown channel has the highest ctr. 
+The rate of clicks per impersssions : Unkown channel has the highest ctr. 
 
 ### 6. Sum of Conversion Rate (CVR) 
-The rate of conversions per click. 
-Instagram has the highest conversion rate. 
+The rate of conversions per click : Instagram has the highest conversion rate. 
 
 ### 7. Sum of Cost Per Click (CPC) 
-Unkown and Instagram have the lowest CPC. 
-The highest is for Google Ads. 
+Unkown and Instagram have the lowest CPC : The highest is for Google Ads. 
 
 ### 8. Sum of Cost per Acquisition (CPA) 
-Unkown and Instagram have the lowest CPA. 
-Email has the highest CPA. 
+Unkown and Instagram have the lowest CPA. Email has the highest CPA. 
 
 
-**- Unkown channel has the highest click through rate, but has the lowest volume of clicks, impressions and spend. This suggests that unkown channel must be likely capturing organic or direct traffic, which naturally has higher intent and lower cost than the paid acquisition channels (Facebook/TikTok).
-    hence there is no need to reallocate budget to this channel.**
-**- Instagram has the highest conversion rate, lower CPC and CPA but the lowest CTR.**
-    **- Low CTR: The ads on Instagram are likely "niche" or not reaching a massive audience, meaning fewer people are clicking on them. It’s a "selective" experience.**
-    **- High CVR: Because the people who do click are so highly qualified (or perhaps because the Instagram landing page experience is perfectly tailored to them), they convert at a much higher rate than users from other channels.**
-    **- Low CPC/CPA: Because Instagram is currently driving high-intent conversions efficiently, it is costing very little to acquire each customer.**
-**- Instagram represents 'High-Intent' pocket. While it has lower visibility (CTR) compared to Facebook or TikTok, it delivers the most efficient conversions (CPA) and the highest conversion rate (CVR). This indicates that the Instagram audience is highly qualified. Rather than pushing for more volume, we should focus on optimizing ad creative on Instagram to improve the CTR, which would allow to capture more of this high-intent traffic at current low CPA.** 
+- Unkown channel has the highest click through rate, but has the lowest volume of clicks, impressions and spend. This suggests that unkown channel must be likely capturing organic or direct traffic, which naturally has higher intent and lower cost than the paid acquisition channels (Facebook/TikTok). Hence there is no need to reallocate budget to this channel.
+- Instagram has the highest conversion rate, lower CPC and CPA but the lowest CTR.
+- Low CTR: The ads on Instagram are likely "niche" or not reaching a massive audience, meaning fewer people are clicking on them. It’s a "selective" experience.
+- High CVR: Because the people who do click are so highly qualified (or perhaps because the Instagram landing page experience is perfectly tailored to them), they convert at a much higher rate than users from other channels.
+- Low CPC/CPA: Because Instagram is currently driving high-intent conversions efficiently, it is costing very little to acquire each customer.
+- Instagram represents 'High-Intent' pocket. While it has lower visibility (CTR) compared to Facebook or TikTok, it delivers the most efficient conversions (CPA) and the highest conversion rate (CVR). This indicates that the Instagram audience is highly qualified. Rather than pushing for more volume, we should focus on optimizing ad creative on Instagram to improve the CTR, which would allow to capture more of this high-intent traffic at current low CPA. 
 
 **Hence, from the above analysis the 'Growth Engine' channels are Facebook and TikTok and the the 'High - Intent Pockets' channel is Instagram.** 
 
