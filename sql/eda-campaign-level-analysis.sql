@@ -37,7 +37,7 @@ WHERE spend > 0
 AND conversions > 0 
 AND channel IN ('Facebook', 'TikTok', 'Instagram') 
 GROUP BY campaign_name, channel 
-ORDER BY conversions DESC, cpa ASC LIMIT 10; 
+ORDER BY cpa ASC, conversions DESC LIMIT 10; 
 
 
 
