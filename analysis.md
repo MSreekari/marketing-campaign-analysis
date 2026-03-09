@@ -52,6 +52,15 @@ Unkown and Instagram have the lowest CPA. Email has the highest CPA.
 
 **Hence, from the above analysis the 'Growth Engine' channels are Facebook and TikTok and the the 'High - Intent Pockets' channel is Instagram.** 
 
+## 2. Campaign - Level Analysis 
+
+### 1. Sum of Conversions 
+
+Q4_Winter_CMP-01118 is the campaign that has the highest number of conversions. 
+
+### 2. Spend vs Acquisition 
+
+Q4_Winter_CMP-01118 has the second highest spend and it has the least CPA. 
 
 
 
