@@ -24,7 +24,7 @@ from marketing_campaign_cleaned
 WHERE spend > 0 
 AND conversions > 0 
 GROUP BY campaign_name 
-ORDER BY cpa ASC; 
+ORDER BY conversions DESC, cpa ASC;   
 
 -- Drill Down analysis - Campaign Performance inside top channels 
 SELECT campaign_name, 
@@ -37,7 +37,7 @@ WHERE spend > 0
 AND conversions > 0 
 AND channel IN ('Facebook', 'TikTok', 'Instagram') 
 GROUP BY campaign_name, channel 
-ORDER BY cpa; 
+ORDER BY conversions DESC, cpa ASC LIMIT 10; 
 
 
 
