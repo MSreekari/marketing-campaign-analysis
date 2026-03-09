@@ -5,7 +5,7 @@
 I performed a multi-channel performance to identify the most efficient customer acquisition sources. By comparing volume (impressions/clicks) against 
 cost-efficiency (CPA/CPC), I was able to isolate which channels are driving scalable growth and which require optimization. 
 
-### 1. Total Sum of Clicks 
+### 1. Overall Clicks 
 The total count of times users interacted with the advertisement across all campaigns within a specific channel.
 - Business Impact: This is a primary indicator of "Interest." 
   It tells us how successful the ad creative and targeting are at capturing the audience's attention enough to take the first step toward the website or landing page. 
@@ -13,7 +13,7 @@ The total count of times users interacted with the advertisement across all camp
 - Facebook and TikTok are our leading drivers of traffic.
   This indicates that these platforms are highly effective at reaching the target and prompting them to take immediate action.
 
-### 2. Total Sum of Impressions 
+### 2. Overall Impressions 
 The total number of times the advertisements were displayed or rendered on a user's screen across all channels.
 
 - Business Impact: It is a measure of "Reach" or "Visibility." 
@@ -23,23 +23,23 @@ It represents the size of the audience being exposed to your brand, regardless o
 
 **From the above two metrics it shows that, a massive audience (Impressions) is being reached, and a significant portion of that audience finds the content engaging enough to interact with (Clicks).**
 
-### 3. Total Sum of Conversions 
+### 3. Overall Conversions 
 Facebook and TikTok have the highest conversions.
 Since both channels show high conversion rates alongside high traffic volume, there is a clear case for prioritizing budget allocation here to maximize the return on investment. 
 
-### 4. Total Sum of Spend 
+### 4. Overall Spend 
 It find which platfrom receives the most budget : Facebook and TikTok recieve the most marketing budget. 
 
-### 5. Sum of Click Through Rate (CTR) 
+### 5. Overall Click Through Rate (CTR) 
 The rate of clicks per impersssions : Unkown channel has the highest ctr. 
 
-### 6. Sum of Conversion Rate (CVR) 
+### 6. Overall Conversion Rate (CVR) 
 The rate of conversions per click : Instagram has the highest conversion rate. 
 
-### 7. Sum of Cost Per Click (CPC) 
+### 7. Overall Cost Per Click (CPC) 
 Unkown and Instagram have the lowest CPC : The highest is for Google Ads. 
 
-### 8. Sum of Cost per Acquisition (CPA) 
+### 8. Overall Cost per Acquisition (CPA) 
 Unkown and Instagram have the lowest CPA. Email has the highest CPA. 
 
 
@@ -54,7 +54,7 @@ Unkown and Instagram have the lowest CPA. Email has the highest CPA.
 
 ## 2. Campaign - Level Analysis 
 
-### 1. Sum of Conversions 
+### 1. Overall Conversions 
 Q4_Winter_CMP-01118 is the campaign that has the highest number of conversions. 
 
 ### 2. Spend vs Acquisition 
@@ -74,6 +74,62 @@ Therefore, the insights found in the campaign - level analysis are -
 - Q4_Winter_CMP-01118 : By having the highest conversions and high spend, this campaign is the engine that is actively growing the business's market share. Its "low CPA" means it is doing this at a healthy cost, making it a highly scalable campaign. 
 - Q2_Launch_CMP-01621 : It maintains high conversions with a lower CPA which makes it a highly profitable asset.
 - Instagram is the primary engine for high-efficiency acquisition, while Facebook drives the high-volume growth. It can be said that prioritizing budget expansion for Q3_Launch_CMP-01810 to capitalize on its superior efficiency, while simultaneously auditing ad creatives for TikTok campaigns to bring their acquisition costs in line with the Instagram benchmarks.
+
+
+## 3. Seasonal - Analysis 
+
+### 1. Click-Through Rate (CTR) Stability 
+The Sum of ctr by season is also very consistent at roughly 0.03. This indicates that the ad creative quality is stable across all seasons, so the differences seen in CPA are likely driven by market competition or media buying costs rather than poor ad design. 
+
+### 2. Conversion Consistency 
+The Sum of cvr by season chart shows remarkably stable conversion rates across all seasons (hovering around 0.12–0.13). This is a sign that means the landing pages  offer quality that remain high regardless of the time of year. 
+
+### 3. CPA Efficiency 
+The Sum of cpa by season chart shows that Launch campaigns are the most efficient (lowest CPA at 9.3), while Summer campaigns are the most expensive (highest CPA at 10.4). This suggests that "Launch" periods are when the audience is most receptive or when the ad targeting is best optimized. 
+
+**1. Channel Analysis: Facebook and TikTok are the growth engines as they aid in mass-market reach and High-Intent Pockets is Instagram for cost-efficient, high-conversion acquisition.**
+
+**2. Campaign Analysis: Q4_Winter_CMP-01118 is the campaign that helps to scale total volume while optimizing "Precision Scalers" like Q2_Launch_CMP-01621 to maximize profitability.**
+
+**3. Seasonal Analysis: While conversion and click-through rates remain stable year-round, the "Launch" windows are consistently the most cost-efficient periods, providing a clear signal to prioritize budget allocation during these specific temporal cycles.** 
+
+## 4. Business Recommendations
+
+Based on the channel, campaign, and seasonal performance analysis, several strategic recommendations can be made to optimize marketing effectiveness.
+
+### 1. Scale High-Performing Channels
+
+Facebook and TikTok generate the highest reach, clicks, and conversions, making them the primary growth engines for the marketing strategy.
+
+Recommendation:
+- Continue allocating a large share of the marketing budget to these channels.
+- Focus on scaling high-performing campaigns to maximize acquisition volume.
+
+### 2. Expand High-Intent Instagram Traffic
+
+Instagram demonstrates the highest conversion rate and lowest acquisition cost despite lower click volume.
+
+Recommendation:
+- Improve ad creative and audience targeting to increase CTR.
+- This could unlock additional high-intent traffic while maintaining low CPA.
+
+### 3. Optimize Underperforming Campaigns
+
+Certain campaigns (particularly within TikTok) show higher CPA compared to the top-performing campaigns.
+
+Recommendation: 
+- Audit ad creatives and targeting strategies for these campaigns.
+- Align campaign messaging with successful Instagram campaign strategies.
+
+### 4. Prioritize Launch Periods
+
+Seasonal analysis shows that Launch campaigns deliver the lowest CPA, indicating stronger audience receptivity during these periods.
+
+Recommendation: 
+- Allocate higher marketing budgets during Launch cycles.
+- Plan major campaign releases around these windows to maximize acquisition efficiency. 
+
+
 
 
 
