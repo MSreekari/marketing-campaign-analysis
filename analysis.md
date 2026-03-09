@@ -55,13 +55,25 @@ Unkown and Instagram have the lowest CPA. Email has the highest CPA.
 ## 2. Campaign - Level Analysis 
 
 ### 1. Sum of Conversions 
-
 Q4_Winter_CMP-01118 is the campaign that has the highest number of conversions. 
 
 ### 2. Spend vs Acquisition 
-
 Q4_Winter_CMP-01118 has the second highest spend and it has the least CPA. 
 
+### 3. Most Efficient Campaign - High Conversions and Low CPA  
+Q2_Launch_CMP-01621 has high conversions and also low CPA. 
+
+### 4. Drill Down analysis - Campaign Performance inside top channels 
+- Q3_Launch_CMP-01810 of Instagram is the top-performing campaign, offering the lowest CPA (approx. 2.62) while maintaining high conversion volume.
+- Instagram is functioning as the most cost-efficient channel, with multiple campaigns like Q3_Launch_CMP-01810 and Q3_BlackFriday_CMP-01930 clustering at a low CPA.
+- Facebook serves as the "Volume Engine," capable of driving significant conversions (e.g., Q3_Winter_CMP-00633), though generally at a slightly higher CPA compared to Instagram.
+- Scalability Potential: The campaign Q3_Winter_CMP-00633 (Facebook) demonstrates that there is a high-volume campaigns currently operating at an efficient CPA (2.91), indicating they are strong candidates for continued investment.
+- Optimization Opportunity: Campaigns like Q3_Launch_CMP-01172 (TikTok) represent areas for potential improvement, as they exhibit a higher CPA (3.05) compared to the top-tier Instagram campaigns.
+
+Therefore, the insights found in the campaign - level analysis are - 
+- Q4_Winter_CMP-01118 : By having the highest conversions and high spend, this campaign is the engine that is actively growing the business's market share. Its "low CPA" means it is doing this at a healthy cost, making it a highly scalable campaign. 
+- Q2_Launch_CMP-01621 : It maintains high conversions with a lower CPA which makes it a highly profitable asset.
+- Instagram is the primary engine for high-efficiency acquisition, while Facebook drives the high-volume growth. It can be said that prioritizing budget expansion for Q3_Launch_CMP-01810 to capitalize on its superior efficiency, while simultaneously auditing ad creatives for TikTok campaigns to bring their acquisition costs in line with the Instagram benchmarks.
 
 
 
