@@ -35,6 +35,7 @@ SUM(spend) /SUM(conversions) AS cpa
 from marketing_campaign_cleaned 
 WHERE spend > 0 
 AND conversions > 0 
+AND channel IN ('Facebook', 'TikTok', 'Instagram') 
 GROUP BY campaign_name, channel 
 ORDER BY cpa; 
 
