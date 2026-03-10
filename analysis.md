@@ -93,44 +93,6 @@ The Sum of cpa by season chart shows that Launch campaigns are the most efficien
 
 **3. Seasonal Analysis: While conversion and click-through rates remain stable year-round, the "Launch" windows are consistently the most cost-efficient periods, providing a clear signal to prioritize budget allocation during these specific temporal cycles.** 
 
-## 4. Business Recommendations
-
-Based on the channel, campaign, and seasonal performance analysis, several strategic recommendations can be made to optimize marketing effectiveness.
-
-### 1. Scale High-Performing Channels
-
-Facebook and TikTok generate the highest reach, clicks, and conversions, making them the primary growth engines for the marketing strategy.
-
-Recommendation:
-- Continue allocating a large share of the marketing budget to these channels.
-- Focus on scaling high-performing campaigns to maximize acquisition volume.
-
-### 2. Expand High-Intent Instagram Traffic
-
-Instagram demonstrates the highest conversion rate and lowest acquisition cost despite lower click volume.
-
-Recommendation:
-- Improve ad creative and audience targeting to increase CTR.
-- This could unlock additional high-intent traffic while maintaining low CPA.
-
-### 3. Optimize Underperforming Campaigns
-
-Certain campaigns (particularly within TikTok) show higher CPA compared to the top-performing campaigns.
-
-Recommendation: 
-- Audit ad creatives and targeting strategies for these campaigns.
-- Align campaign messaging with successful Instagram campaign strategies.
-
-### 4. Prioritize Launch Periods
-
-Seasonal analysis shows that Launch campaigns deliver the lowest CPA, indicating stronger audience receptivity during these periods.
-
-Recommendation: 
-- Allocate higher marketing budgets during Launch cycles.
-- Plan major campaign releases around these windows to maximize acquisition efficiency. 
-
-
-
 
 
 
