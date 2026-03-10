@@ -26,7 +26,7 @@ campaign_tag
 
 ## Dashboard Preview
 
-<img src="pipeline-architecture" width="800">
+<img src="pipeline-architecture" width="800"> 
 
 ## 4. Data Cleaning and Perprocessing 
 
@@ -67,9 +67,9 @@ Launch campaigns demonstrate the lowest CPA, indicating higher audience receptiv
 
 <img src="dashboards/channel-analysis-dashboard.png" width="800">
 
-<img src="images/campaign-level-analysis-dashboard.png" width="800">
+<img src="dashboards/campaign-level-analysis-dashboard.png" width="800">
 
-<img src="images/seasonal-analysis-dashboard.png" width="800"> 
+<img src="dashboards/seasonal-analysis-dashboard.png" width="800"> 
 
 ## 10. Business Recommendations
 
