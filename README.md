@@ -24,9 +24,7 @@ campaign_tag
 
 ## 3. Pipeline Architecture 
 
-## Dashboard Preview
-
-<img src="pipeline-architecture" width="800"> 
+<img src="pipeline-architecture.png" width="800"> 
 
 ## 4. Data Cleaning and Perprocessing 
 
