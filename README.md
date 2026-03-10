@@ -22,30 +22,36 @@ conversions
 active  
 campaign_tag 
 
-## 3. Data Cleaning and Perprocessing 
+## 3. Pipeline Architecture 
+
+## Dashboard Preview
+
+<img src="pipeline-architecture" width="800">
+
+## 4. Data Cleaning and Perprocessing 
 
 - Handling Missing Values
 - Handling Invalid Values
 - Standardizing Data
 - Derived Columns
 
-## 4. Dervied Columns 
+## 5. Dervied Columns 
 Season is a dervied column from the campaign_name. 
 
-## 5. KPIs Used 
+## 6. KPIs Used 
 
 CTR = clicks / impressions
 CVR = conversions / clicks
 CPC = spend / clicks
 CPA = spend / conversions 
 
-## 6. Analysis Performed 
+## 7. Analysis Performed 
 
 1. Channel Analysis
 2. Campaign-Level Analysis
 3. Seasonal Analysis
 
-## 7. Key Insights
+## 8. Key Insights
 
 **Channel Insights** : 
 - Facebook and TikTok function as growth engines due to high reach and traffic volume.
@@ -57,7 +63,15 @@ Q4_Winter_CMP-01118 drives the highest number of conversions while maintaining e
 **Seasonal Insights** : 
 Launch campaigns demonstrate the lowest CPA, indicating higher audience receptivity during these periods. 
 
-## 8. Business Recommendations
+## 9. Dashboard Preview 
+
+<img src="dashboards/channel-analysis-dashboard.png" width="800">
+
+<img src="images/campaign-level-analysis-dashboard.png" width="800">
+
+<img src="images/seasonal-analysis-dashboard.png" width="800"> 
+
+## 10. Business Recommendations
 
 Based on the channel, campaign, and seasonal performance analysis, several strategic recommendations can be made to optimize marketing effectiveness.
 
@@ -89,7 +103,7 @@ Seasonal analysis shows that Launch campaigns deliver the lowest CPA, indicating
 - Allocate higher marketing budgets during Launch cycles.
 - Plan major campaign releases around these windows to maximize acquisition efficiency.
 
-## 9. Tools and Technologies Used : 
+## 11. Tools and Technologies Used : 
 
 - Python for data cleaning and preprocessing
 - MySQL for performing EDA
